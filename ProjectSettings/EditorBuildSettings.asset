@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MenuScene.unity
+    guid: 0215c5c426caf0c44a36747bacaeff57
+  - enabled: 1
+    path: Assets/Scenes/C1_Menu.unity
+    guid: 7033d0a27217a1f4e8d3ae94ad7fb2c7
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/C2.unity
+    guid: cb86b4839fe739b40b7427ed5cadf493
+  - enabled: 0
+    path: Assets/Scenes/C1.unity
+    guid: 652e0b86b96442548922aa944889001c
+  - enabled: 0
+    path: Assets/Scenes/A4-Atollon.unity
+    guid: 3e8814b256e4a204e8d417ddeb8342b2
+  - enabled: 0
+    path: Assets/Scenes/B5-Hoth Asteroid.unity
+    guid: d95b1b034d919944ea2dec8110970900
+  - enabled: 0
+    path: Assets/Scenes/B5-Defender.unity
+    guid: 439b7b0c5748b014f9197463f9854ca7
+  - enabled: 0
+    path: Assets/Scenes/Kessel.unity
+    guid: 39aaa9b1256925f468e464bbc2487250
+  - enabled: 0
+    path: Assets/Scenes/A1.unity
+    guid: 799889d68d51e714d97da77da0b36127
+  - enabled: 0
+    path: Assets/Scenes/B1.unity
+    guid: 0e359b8fa619d414da06549fe4cfacee
+  - enabled: 0
+    path: Assets/Scenes/A2.unity
+    guid: 43d22b38f8a9b7447a9b3106b699d2d6
+  - enabled: 0
+    path: Assets/Scenes/A3.unity
+    guid: 42d6c72cc6fde0240bbf2a533366a546
+  - enabled: 0
+    path: Assets/Scenes/B2.unity
+    guid: 9d32e1cd98a838c4fb5a432f838a3db9
+  - enabled: 0
+    path: Assets/Scenes/B3.unity
+    guid: 65bbd1f0d10efb940940f6836ec9da92
+  - enabled: 0
+    path: Assets/Scenes/B4.unity
+    guid: cefe4422d1b79ad4a84dfb482d05fa3a
+  - enabled: 0
+    path: Assets/Scenes/Exegol.unity
+    guid: 041ba6fc22aeff84e8e2ceade519a779
+  - enabled: 0
+    path: Assets/Scenes/Geonosis.unity
+    guid: e00af3d312f0827478fd760f5f89709f
+  - enabled: 0
+    path: Assets/Scenes/Jedha.unity
+    guid: 6b5259d97061b2d44be97092973fd7af
+  - enabled: 0
+    path: Assets/Scenes/Kashyyk.unity
+    guid: fac12ff598887a94d9c7307cdab5d3eb
+  - enabled: 0
+    path: Assets/Scenes/Korriban.unity
+    guid: f5473b2810dc15449b69b3ec135eacfc
+  m_configObjects: {}
